@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EBIba94aGCw7qctfE4CC6Wn6osENVY/FFi1XR/c2Abr5SbTLIvlfcLZkEy8SepJ+Rl4TNMmCR1xsoEB7jYbxA==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\MagicTheGathering.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
