@@ -1,0 +1,107 @@
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.lock.json
+*.bak
+*.tmp
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+
+# NuGet packages
+*.nupkg
+packages/
+*.cache
+*.dll
+*.exe
+
+# Build/IIS Logs
+*.logs/
+*.log
+
+# Resharper cache
+_resharper/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# StyleCop
+StyleCopReport.xml
+
+# Unity3D generated files
+Library/
+Temp/
+UnityPackageManager/
+Packages/
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# DotCover
+*.dotCover
+
+# Build Azure cloud service projects
+*.cspkg
+*.csx
+*.publishsettings
+
+# TeamCity build logs
+_Recovery/
+*.tclog
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Xamarin-specific
+*.apk
+*.ap_
+*.aab
+*.ipa
+*.dll
+*.pdb
+*.dsym
+*.so
+*.zip
+*.nupkg
+*.ipa.*
+*.apk.*
+*.xap
+
+# LaTex
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.acn
+*.glo
+*.gls
+*.ist
+*.fls
+*.log
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
