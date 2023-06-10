@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services.CardsInfo", "Servi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.CardsInfo", "Tests\Tests.CardsInfo\Tests.CardsInfo.csproj", "{D1E02CFF-59FF-4D58-8858-1977AC4F62C1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{C6A39A54-8BF5-43CB-A2F8-544C310D8BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.CardsInfo", "Application\Application.CardsInfo\Application.CardsInfo.csproj", "{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +53,10 @@ Global
 		{D1E02CFF-59FF-4D58-8858-1977AC4F62C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E02CFF-59FF-4D58-8858-1977AC4F62C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E02CFF-59FF-4D58-8858-1977AC4F62C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,7 @@ Global
 		{1CEEE852-6411-4222-842D-867AEE150330} = {EA5F1BF4-4F5F-4FDE-BF3B-E58513F59204}
 		{B326181C-491E-4D43-A41C-29F6E1A99175} = {2997FE47-90A2-41AE-9327-D79FA92062B1}
 		{D1E02CFF-59FF-4D58-8858-1977AC4F62C1} = {83CA8376-18FA-4A3B-8939-C09A6416F22B}
+		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC} = {C6A39A54-8BF5-43CB-A2F8-544C310D8BCD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5D13B994-1930-43F2-BFBC-199B55CEA676}
