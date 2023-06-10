@@ -19,13 +19,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{83CA8376
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{EA5F1BF4-4F5F-4FDE-BF3B-E58513F59204}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.CardsInfo", ".\Domain\Domain.CardsInfo\Domain.CardsInfo.csproj", "{DCED8434-483C-418D-A418-73737B5C9D4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.CardsInfo", "..\Domain\Domain.CardsInfo\Domain.CardsInfo.csproj", "{DCED8434-483C-418D-A418-73737B5C9D4A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.CardsInfo", ".\Infrastructure\Infrastructure.CardsInfo\Infrastructure.CardsInfo.csproj", "{B25263A9-9BA7-4877-B388-28EF152454C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.CardsInfo", "..\Infrastructure\Infrastructure.CardsInfo\Infrastructure.CardsInfo.csproj", "{B25263A9-9BA7-4877-B388-28EF152454C2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Commons", ".\Libray\Library.Commons\Library.Commons.csproj", "{1CEEE852-6411-4222-842D-867AEE150330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Commons", "..\Libray\Library.Commons\Library.Commons.csproj", "{1CEEE852-6411-4222-842D-867AEE150330}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services.CardsInfo", ".\Services\Services.CardsInfo\Services.CardsInfo.csproj", "{B326181C-491E-4D43-A41C-29F6E1A99175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services.CardsInfo", "..\Services\Services.CardsInfo\Services.CardsInfo.csproj", "{B326181C-491E-4D43-A41C-29F6E1A99175}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.CardsInfo", ".\Tests\Tests.CardsInfo\Tests.CardsInfo.csproj", "{D1E02CFF-59FF-4D58-8858-1977AC4F62C1}"
 EndProject
