@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/EBIba94aGCw7qctfE4CC6Wn6osENVY/FFi1XR/c2Abr5SbTLIvlfcLZkEy8SepJ+Rl4TNMmCR1xsoEB7jYbxA==",
+  "dgSpecHash": "AStZlJh2KufLIkZvExQhRvTolxDyOgnmWtyTJ7dFTaOEShIymjSjfnRSws+SIA9hiT+bZQi87o6FczafZFVk/g==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\MagicTheGathering.Service.csproj",
+  "projectFilePath": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\Application.Api.CardsInfo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus.souza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\matheus.souza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

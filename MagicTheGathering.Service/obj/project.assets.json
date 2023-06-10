@@ -320,9 +320,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\MagicTheGathering.Service.csproj",
-      "projectName": "MagicTheGathering.Service",
-      "projectPath": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\MagicTheGathering.Service.csproj",
+      "projectUniqueName": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\Application.Api.CardsInfo.csproj",
+      "projectName": "Application.Api.CardsInfo",
+      "projectPath": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\Application.Api.CardsInfo.csproj",
       "packagesPath": "C:\\Users\\matheus.souza\\.nuget\\packages\\",
       "outputPath": "C:\\Source\\Git\\myTraining\\Magic-The-Gathering-Deck\\MagicTheGathering.Service\\obj\\",
       "projectStyle": "PackageReference",
