@@ -1,0 +1,12 @@
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\bin\Debug\net6.0\Infrastructure.CardsInfo.deps.json
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\bin\Debug\net6.0\Infrastructure.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\bin\Debug\net6.0\Infrastructure.CardsInfo.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\Infrastructure.CardsInfo.csproj.AssemblyReference.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\Infrastructure.CardsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\Infrastructure.CardsInfo.AssemblyInfoInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\Infrastructure.CardsInfo.AssemblyInfo.cs
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\Infrastructure.CardsInfo.csproj.CoreCompileInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\Infrastructure.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\refint\Infrastructure.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\Infrastructure.CardsInfo.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Infrastructure\Infrastructure.CardsInfo\obj\Debug\net6.0\ref\Infrastructure.CardsInfo.dll

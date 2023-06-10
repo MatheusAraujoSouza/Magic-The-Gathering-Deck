@@ -1,0 +1,12 @@
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\bin\Debug\net6.0\Services.CardsInfo.deps.json
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\bin\Debug\net6.0\Services.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\bin\Debug\net6.0\Services.CardsInfo.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\Services.CardsInfo.csproj.AssemblyReference.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\Services.CardsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\Services.CardsInfo.AssemblyInfoInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\Services.CardsInfo.AssemblyInfo.cs
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\Services.CardsInfo.csproj.CoreCompileInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\Services.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\refint\Services.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\Services.CardsInfo.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Services\Services.CardsInfo\obj\Debug\net6.0\ref\Services.CardsInfo.dll

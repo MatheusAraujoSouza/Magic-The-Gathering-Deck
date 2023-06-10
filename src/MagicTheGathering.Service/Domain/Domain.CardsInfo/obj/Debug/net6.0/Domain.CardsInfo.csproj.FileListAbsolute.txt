@@ -1,0 +1,12 @@
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\bin\Debug\net6.0\Domain.CardsInfo.deps.json
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\bin\Debug\net6.0\Domain.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\bin\Debug\net6.0\Domain.CardsInfo.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\Domain.CardsInfo.csproj.AssemblyReference.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\Domain.CardsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\Domain.CardsInfo.AssemblyInfoInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\Domain.CardsInfo.AssemblyInfo.cs
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\Domain.CardsInfo.csproj.CoreCompileInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\Domain.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\refint\Domain.CardsInfo.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\Domain.CardsInfo.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Domain\Domain.CardsInfo\obj\Debug\net6.0\ref\Domain.CardsInfo.dll

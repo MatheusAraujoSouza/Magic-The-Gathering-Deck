@@ -1,0 +1,12 @@
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\bin\Debug\net6.0\Library.Commons.deps.json
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\bin\Debug\net6.0\Library.Commons.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\bin\Debug\net6.0\Library.Commons.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\Library.Commons.csproj.AssemblyReference.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\Library.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\Library.Commons.AssemblyInfoInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\Library.Commons.AssemblyInfo.cs
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\Library.Commons.csproj.CoreCompileInputs.cache
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\Library.Commons.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\refint\Library.Commons.dll
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\Library.Commons.pdb
+C:\Source\Git\myTraining\project-gathering\Magic-The-Gathering-Deck\src\MagicTheGathering.Service\Libray\Library.Commons\obj\Debug\net6.0\ref\Library.Commons.dll
