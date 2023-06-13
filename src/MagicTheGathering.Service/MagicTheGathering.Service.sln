@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.CardsInfo", "Tests\Te
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{C6A39A54-8BF5-43CB-A2F8-544C310D8BCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.CardsInfo", "Application\Application.CardsInfo\Application.CardsInfo.csproj", "{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.CardsInfo", "Application\Application.CardsInfo\Application.CardsInfo.csproj", "{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.UserAuthApi", "Application\Application.UserAuthApi\Application.UserAuthApi.csproj", "{74247C30-B90B-41EA-8CAB-72FE4FBF0259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.UserAuthApi", "Domain\Domain.UserAuthApi\Domain.UserAuthApi.csproj", "{E4C96968-468B-4F71-A684-6F77AB212CB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74247C30-B90B-41EA-8CAB-72FE4FBF0259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74247C30-B90B-41EA-8CAB-72FE4FBF0259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74247C30-B90B-41EA-8CAB-72FE4FBF0259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74247C30-B90B-41EA-8CAB-72FE4FBF0259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C96968-468B-4F71-A684-6F77AB212CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C96968-468B-4F71-A684-6F77AB212CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C96968-468B-4F71-A684-6F77AB212CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C96968-468B-4F71-A684-6F77AB212CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +80,8 @@ Global
 		{B326181C-491E-4D43-A41C-29F6E1A99175} = {2997FE47-90A2-41AE-9327-D79FA92062B1}
 		{D1E02CFF-59FF-4D58-8858-1977AC4F62C1} = {83CA8376-18FA-4A3B-8939-C09A6416F22B}
 		{35FBFA86-F16F-4400-AE5D-05B8AC53F9EC} = {C6A39A54-8BF5-43CB-A2F8-544C310D8BCD}
+		{74247C30-B90B-41EA-8CAB-72FE4FBF0259} = {C6A39A54-8BF5-43CB-A2F8-544C310D8BCD}
+		{E4C96968-468B-4F71-A684-6F77AB212CB3} = {EB043AB5-5CF7-4107-B38A-189BC2949A6C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5D13B994-1930-43F2-BFBC-199B55CEA676}
