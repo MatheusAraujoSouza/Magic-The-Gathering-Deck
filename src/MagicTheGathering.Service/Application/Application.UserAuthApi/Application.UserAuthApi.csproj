@@ -14,4 +14,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Domain.UserAuthApi\Domain.UserAuthApi.csproj" />
+    <ProjectReference Include="..\..\Services\Services.UserAuthApi\Services.UserAuthApi.csproj" />
+  </ItemGroup>
+
 </Project>

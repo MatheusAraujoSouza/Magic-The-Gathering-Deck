@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Application.UserAuthApi.Services; // Assuming this is the namespace for your application services
 using Application.UserAuthApi.Models; // Assuming this is the namespace for your application models
+using Application.UserAuthApi.Models.Request;
 
 namespace Application.UserAuthApi.Controllers
 {
