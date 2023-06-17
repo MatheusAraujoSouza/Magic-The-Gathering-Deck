@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Application.UserAuthApi.Services; // Assuming this is the namespace for your application services
-using Application.UserAuthApi.Models; // Assuming this is the namespace for your application models
+using Application.UserAuthApi.Services;
+using Application.UserAuthApi.Models;
 using Application.UserAuthApi.Models.Request;
+using System.Threading.Tasks;
+using Domain.UserAuthApi.Interfaces.Services;
 
 namespace Application.UserAuthApi.Controllers
 {
@@ -17,12 +19,16 @@ namespace Application.UserAuthApi.Controllers
         }
 
         [HttpPost("login")]
-        public IActionResult Login(LoginRequestModel model)
+        public async Task<IActionResult> Login([FromBody] LoginRequestModel model)
         {
             // Validate the login request model
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
             // Call the authentication service to validate credentials and generate a token
-            var token = _authService.AuthenticateUser(model.Username, model.Password);
+            var token = await _authService.AuthenticateUserAsync(model.Username, model.Password);
 
             if (token == null)
             {
@@ -34,12 +40,16 @@ namespace Application.UserAuthApi.Controllers
         }
 
         [HttpPost("register")]
-        public IActionResult Register(RegisterRequestModel model)
+        public async Task<IActionResult> Register([FromBody] RegisterRequestModel model)
         {
             // Validate the register request model
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
             // Call the authentication service to register the user
-            var result = _authService.RegisterUser(model.Username, model.Password);
+            var result = await _authService.RegisterUserAsync(model.Username, model.Password);
 
             if (!result.Success)
             {
