@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.UserAuthApi.Interfaces.Repositories
 {
-    internal interface IAuthTypeRepository
+    public interface IAuthTypeRepository
     {
     }
 }

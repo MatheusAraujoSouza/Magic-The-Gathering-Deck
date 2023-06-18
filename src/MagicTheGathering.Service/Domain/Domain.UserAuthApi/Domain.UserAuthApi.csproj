@@ -10,4 +10,8 @@
     <Folder Include="Entities\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libray\Library.Commons\Library.Commons.csproj" />
+  </ItemGroup>
+
 </Project>

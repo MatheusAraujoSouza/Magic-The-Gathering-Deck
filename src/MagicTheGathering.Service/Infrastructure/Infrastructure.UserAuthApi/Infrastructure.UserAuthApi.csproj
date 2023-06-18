@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Domain.UserAuthApi\Domain.UserAuthApi.csproj" />
+  </ItemGroup>
+
 </Project>

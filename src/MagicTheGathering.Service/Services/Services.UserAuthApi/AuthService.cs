@@ -1,6 +1,8 @@
-﻿using System.Threading.Tasks;
-using Application.UserAuthApi.Models;
-using Application.UserAuthApi.Repositories;
+﻿using Domain.UserAuthApi.Interfaces.Services;
+using Domain.UserAuthApi.Models;
+using Domain.UserAuthApi.Interfaces.Repositories;
+using System.Threading.Tasks;
+using Library.Commons.Results;
 
 namespace Services.UserAuthApi
 {
@@ -13,33 +15,29 @@ namespace Services.UserAuthApi
             _userRepository = userRepository;
         }
 
-        public async Task<string> AuthenticateUserAsync(string username, string password)
+        public async Task<ServiceResult<string>> AuthenticateUserAsync(string username, string password)
         {
             // Find the user by username in the repository
             var user = await _userRepository.GetUserByUsernameAsync(username);
 
             if (user == null || !user.VerifyPassword(password))
             {
-                return null; // Invalid credentials
+                return ServiceResult<string>.ErrorResult("Invalid credentials");
             }
 
             // Generate and return the authentication token
             string token = GenerateAuthToken(user);
-            return token;
+            return ServiceResult<string>.SuccessResult(token);
         }
 
-        public async Task<ServiceResult> RegisterUserAsync(string username, string password)
+        public async Task<ServiceResult<string>> RegisterUserAsync(string username, string password)
         {
             // Check if the username is already taken
             var existingUser = await _userRepository.GetUserByUsernameAsync(username);
 
             if (existingUser != null)
             {
-                return new ServiceResult
-                {
-                    Success = false,
-                    Message = "Username is already taken."
-                };
+                return ServiceResult<string>.ErrorResult("Username is already taken.");
             }
 
             // Create a new user entity
@@ -48,11 +46,7 @@ namespace Services.UserAuthApi
             // Save the user in the repository
             await _userRepository.AddUserAsync(newUser);
 
-            return new ServiceResult
-            {
-                Success = true,
-                Message = "User registration successful!"
-            };
+            return ServiceResult<string>.SuccessResult("User registration successful!");
         }
 
         // Other helper methods...
